@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/costumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/billing-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/costumer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../s9/SPD/E-commerce-App/order-service/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
